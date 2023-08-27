@@ -14,4 +14,12 @@ Skills: `Python`, `HTML`, `CSS`, `JavaScript`, `Microsoft Excel`, `Networking`
 <br/>
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="GAOTek Inc." src="https://thegaogroup.com/wp-content/uploads/2022/09/GAOTEK-LOGO-LARGE.png?raw=true"/>](https://www.gaotek.com/)
+
+**Software Development Intern** \
+[**GAOTek Inc.**](https://www.gaotek.com/) • Internship \
+Skills: `Python`, `Data Analysis`, `Prompt Engineering`, `Search Engine Optimization`, `Microsoft Word`
+<br/>
+<br/>
+
 Please find me on [LinkedIn](https://www.linkedin.com/in/vedant-vyas5/) for a more detailed description of my full work experience, education and certifications.
