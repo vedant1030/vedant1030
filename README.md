@@ -10,7 +10,7 @@ In the overview below, you can check out my most recent work experience:
 
 **Business Analyst Intern** \
 [**Illuminate Universe**](https://www.illuminateuniverse.com/) • Internship \
-Skills: `Python`, `HTML`, `CSS`, `JavaScript`, `Microsoft Excel`, `Networking`
+Skills: `Python` `HTML` `CSS` `JavaScript` `Microsoft Excel` `Networking`
 <br/>
 <br/>
 
@@ -18,7 +18,7 @@ Skills: `Python`, `HTML`, `CSS`, `JavaScript`, `Microsoft Excel`, `Networking`
 
 **Software Development Intern** \
 [**GAOTek Inc.**](https://www.gaotek.com/) • Internship \
-Skills: `Python`, `Data Analysis`, `Prompt Engineering`, `Search Engine Optimization`, `Microsoft Word`
+Skills: `Python` `Data Analysis` `Prompt Engineering` `Search Engine Optimization` 
 <br/>
 <br/>
 
