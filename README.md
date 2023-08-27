@@ -22,4 +22,5 @@ Skills: `Python` `Data Analysis` `Prompt Engineering` `Web Development` `SEO`
 <br/>
 <br/>
 
+
 Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/vedant-vyas5/) for a more detailed description of my full work experience, education and certifications.
