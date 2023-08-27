@@ -22,4 +22,4 @@ Skills: `Python`, `Data Analysis`, `Prompt Engineering`, `Search Engine Optimiza
 <br/>
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/vedant-vyas5/) for a more detailed description of my full work experience, education and certifications.
+Feel free to take a look at my [LinkedIn](https://www.linkedin.com/in/vedant-vyas5/) for a more detailed description of my full work experience, education and certifications.
