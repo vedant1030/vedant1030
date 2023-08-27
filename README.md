@@ -14,7 +14,7 @@ Skills: `Python`, `HTML`, `CSS`, `JavaScript`, `Microsoft Excel`, `Networking`
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="GAOTek Inc." src="https://uploads.magnetme-images.com/18e479a1614c7416b4c9e526ca61ec60?auto=format&bg=white&fit=fill&frame=0&h=198&w=198?raw=true"/>](https://www.gaotek.com/)
+[<img align="left" height="94px" width="94px" alt="GAOTek Inc." src="https://media.glassdoor.com/sqll/1396608/gao-group-squarelogo-1551176013648.png?raw=true"/>](https://www.gaotek.com/)
 
 **Software Development Intern** \
 [**GAOTek Inc.**](https://www.gaotek.com/) • Internship \
