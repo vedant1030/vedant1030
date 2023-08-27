@@ -18,7 +18,7 @@ Skills: `Python` `HTML` `CSS` `JavaScript` `Microsoft Excel` `Networking`
 
 **Software Development Intern** \
 [**GAOTek Inc.**](https://www.gaotek.com/) • Internship \
-Skills: `Python` `Data Analysis` `Prompt Engineering` `Search Engine Optimization` 
+Skills: `Python` `Data Analysis` `Prompt Engineering` `Web Development` `SEO` 
 <br/>
 <br/>
 
