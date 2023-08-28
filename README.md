@@ -12,7 +12,6 @@ In the overview below, you can check out my most recent work experience:
 [**Illuminate Universe**](https://www.illuminateuniverse.com/) • Internship \
 Skills: `Python` `HTML` `CSS` `JavaScript` `Microsoft Excel` `Networking`
 <br/>
-<br/>
 
 [<img align="left" height="64px" width="94px" alt="GAOTek Inc." src="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/6a8359c95c0d5993948e3e019e68bb73.jpg?raw=true"/>](https://www.gaotek.com/)
 
