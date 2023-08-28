@@ -21,7 +21,7 @@ Skills: `Python` `Data Analysis` `Prompt Engineering` `Web Development` `SEO`
 <br/>
 <br/>
 
-### My Current Tech Stack: 
+### My Current Tech Stack 
 [![My Current Tech Stack](https://skillicons.dev/icons?i=python,c,java,js,html,css,react,flask,flutter,bootstrap)](https://skillicons.dev)
 <br/>
 <br/>
