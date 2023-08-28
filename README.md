@@ -6,7 +6,7 @@
 ### Experience
 In the overview below, you can check out my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Illuminate Universe" src="https://media.licdn.com/dms/image/C560BAQGbYgItoGiaBw/company-logo_200_200/0/1625338977722?e=2147483647&v=beta&t=0jG6Ybar_3030FxTEa2yj_SqYl7PXV7eFwyr-W-OB_A?raw=true"/>](https://www.illuminateuniverse.com/)
+[<img align="left" height="94px" width="94px" alt="Illuminate Universe" src="https://static.wixstatic.com/media/214bdb_978f58912e18453dab4cf6b3ecaa3aee~mv2.png/v1/fill/w_1200,h_630,al_c/214bdb_978f58912e18453dab4cf6b3ecaa3aee~mv2.png?raw=true"/>](https://www.illuminateuniverse.com/)
 
 **Business Analyst Intern** \
 [**Illuminate Universe**](https://www.illuminateuniverse.com/) • Internship \
