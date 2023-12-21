@@ -24,7 +24,7 @@ Skills: `Bootstrap` `HTML` `CSS` `JavaScript` `Microsoft Excel` `Networking`
 
 **Software Developer** \
 [**GAOTek Inc.**](https://www.gaotek.com/) • Internship \
-Skills: `Python` `Data Analysis` `Prompt Engineering` `Web Development` `SEO` 
+Skills: `Python` `HTML` `CSS` `Prompt Engineering` `Web Development` `SEO` 
 <br/>
 
 ### My Tech Stack 
