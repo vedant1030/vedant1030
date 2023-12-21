@@ -17,7 +17,7 @@ Skills: `Python` `C#` `.Net` `SQL` `Powershell` `Microsoft Excel` `Financial Ana
 
 **Business Analyst** \
 [**Illuminate Universe**](https://www.illuminateuniverse.com/) • Internship \
-Skills: `Python` `HTML` `CSS` `JavaScript` `Microsoft Excel` `Networking`
+Skills: `Bootstrap` `HTML` `CSS` `JavaScript` `Microsoft Excel` `Networking`
 <br/>
 
 [<img align="left" height="64px" width="94px" alt="GAOTek Inc." src="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/6a8359c95c0d5993948e3e019e68bb73.jpg?raw=true"/>](https://www.gaotek.com/)
