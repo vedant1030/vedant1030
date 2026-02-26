@@ -3,4 +3,4 @@
 - I'm one of the co-founder's of [Opennote](https://www.opennote.com) (YC S25)
 - You can get in touch with me by email at [vedant@opennote.com](mailto:vedant@opennote.com).
 
-You can also reach me through my [LinkedIn](https://www.linkedin.com/in/vedant-vyas5/) or [X](https://x.com/vedantvyas)
+You can also reach me through [LinkedIn](https://www.linkedin.com/in/vedant-vyas5/) or [X](https://x.com/vedantvyas).
